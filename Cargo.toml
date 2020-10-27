@@ -1,0 +1,8 @@
+[package]
+name = "min-trait-example"
+version = "0.1.0"
+authors = ["Wouter Geraedts <git@woutergeraedts.nl>"]
+edition = "2018"
+
+[dependencies]
+generic-array = "0.14.4"
